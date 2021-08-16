@@ -1,0 +1,9 @@
+body{
+    text-align: center;
+ background-position: center;
+ background-size: cover;
+background-image: url("bg1.jpg");
+}
+#fast{
+    text-align: center;
+}
